@@ -26,4 +26,4 @@ La ECI tiene las siguientes diez carreras de pregrado:
     ON a.m_no=b.perf_is
     GROUP BY (b.instrument)`
 ```
-![](https://commonmark.org/help/images/favicon.png)
+![](https://drive.google.com/open?id=1DYeyF3tIDWFTDLel58zqaRZN6XHsC_2q)
